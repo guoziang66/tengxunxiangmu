@@ -15,6 +15,7 @@ unfollow_unread: 0
 _gt_: 0
 message: "ok"
 msg: "ok"
+这是一个fixbug的分支，bug我已修复，现在功能可以用了
 
 
 3.0版本           上线支付以及发红包的功能！     代码如下
